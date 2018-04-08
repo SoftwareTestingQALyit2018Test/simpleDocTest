@@ -6,4 +6,6 @@ And second test gist
 <script src="https://gist.github.com/martinRobinson/05c20bcc72c8175173a8742053ca967f.js"></script>
 And third test
 <script src="https://gist.github.com/martinRobinson/97e9b4359952b854c91fc60ed7929a6d.js"></script>
+And fourth test
+<script src="https://gist.github.com/martinRobinson/3d5aa1bd25107a0863353412377bb916.js"></script>
 End of test.
